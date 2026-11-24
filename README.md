@@ -10,7 +10,7 @@ Repository ini berisi proyek pengembangan aplikasi Augmented Reality (AR) multi-
 
 | No | Nama Lengkap | NIM | Peran | Tanggung Jawab Utama |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Dirli Dwi Putra | F55124022 | Project Leader & 3D Artist | Perumusan konsep kawasan zonasi, prapemrosesan dan optimalisasi 6 model `.glb` menggunakan Blender dan `gltfpack`, serta perancangan 6 *marker* unik |
+| 1 | DIRLI DWI PUTRA | F55124022 | Project Leader & 3D Artist | Perumusan konsep kawasan zonasi, prapemrosesan dan optimalisasi 6 model `.glb` menggunakan Blender dan `gltfpack`, serta perancangan 6 *marker* unik |
 | 2 | Neneng Eka Arya Komala | F55124003 | Lead Developer & AR Specialist | Perakitan *scene* `SampleScene.unity` pada Unity 6.6 (URP), integrasi Vuforia Engine dan *Device Pose Tracking*, serta penyelesaian kendala konfigurasi dan kompilasi Android |
 | 3 | Atalya Victoria Dominic Kupagan | F55124028 | AR Developer, QA/Tester, & DevOps | Pengembangan skrip `ARPerformanceMonitor.cs`, proses *build* berkas `AR_Zonasi_Kelompok6.apk`, pengujian fungsionalitas *black-box*, pengukuran performa dan kuesioner SSQ pada Samsung Galaxy A35 5G, serta manajemen repository GitHub |
 
