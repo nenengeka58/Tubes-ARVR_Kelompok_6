@@ -11,7 +11,7 @@ Repository ini berisi proyek pengembangan aplikasi Augmented Reality (AR) berbas
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Dirli Dwi Putra | [NIM] | Project Leader, 3D Artist, & UI/UX Marker | Koordinasi proyek, optimasi 6 model 3D (Blender & `gltfpack`), serta pembuatan dan verifikasi 6 marker unik (rating 5 bintang di Vuforia) |
 | 2 | Neneng Eka Arya Komala | [F55124003] | Lead Developer & AR Specialist | Integrasi Unity 6 & Vuforia Engine (6 *Image Target* & *tracking*), implementasi script C# (`ARPerformanceMonitor.cs`), serta *build* `.apk` Android |
-| 3 | Atalya Victoria Dominic Kupagan | [NIM] | QA/Tester, DevOps, Documentation, & Presenter | Pengujian performa `.apk` di Android (FPS, RAM, *error handling*), manajemen repository GitHub, penyusunan laporan PDF & slide presentasi, serta produksi video demo |
+| 3 | Atalya Victoria Dominic Kupagan | [F55124028] | QA/Tester, DevOps, Documentation, & Presenter | Pengujian performa `.apk` di Android (FPS, RAM, *error handling*), manajemen repository GitHub, penyusunan laporan PDF & slide presentasi, serta produksi video demo |
 
 ---
 
