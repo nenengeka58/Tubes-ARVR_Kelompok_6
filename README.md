@@ -16,7 +16,7 @@ Repository ini berisi proyek pengembangan aplikasi Augmented Reality (AR) multi-
 
 > **Catatan:** Penyusunan, penyuntingan, dan verifikasi akhir naskah jurnal dilakukan secara kolaboratif oleh seluruh anggota kelompok.
 
----
+
 
 ## Tools dan Spesifikasi Teknis
 
